@@ -24,7 +24,7 @@ section {
 .banner {
   position: relative;
   min-height: 100vh;
-  background: url(/images/cupcake.jpg);
+  background: url(images/cupcake.jpg);
   background-position: center;
   background-size: cover;
 
